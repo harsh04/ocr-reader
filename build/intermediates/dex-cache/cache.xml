@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\2c4a1c2830162765b399e2aa92ce07905884e74d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3eaa4aeec6a224f147931c722c7f347242ac5a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\8029404e6eda40a58a1f892f37eaa6adc15dacf3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87558dd42fc7bb7a5da839f40dd499e3bafb1fc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\7af77c4279f76843158584b0410becff0c1ea691\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28930c3d8bfa870e86d4756e820af437e61b6bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\5557e57160926d26d66734cb106ea2d310e07ec7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_822d1d87027c12da0af3bd74f422a940ebf6fa46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\b28b571f0d012c6c95a132848c76d40c66f8d4fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_177e43e2b25d055b70d919d0d5c05bfe405a2bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\af6bba682d2f44ad92eb3dfe88812c65b8c4c8ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20819561b800b43183afbe33dc276fb2eb75e625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\a4a73ef3cc757bb81af8b9949babef5e1a16cf6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3fef7c72666215116422d1e853c9ed66a5a7bfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\78ddb53947b3c93b3d399d7901b101c528a0727e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2cf5e57f523629a5e5b7447a54f4d93e63a229a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\bbf41462a1c3283e3b3123229ecd871d3367a94c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be32545fbbcd45b79087720ed48a8d8ec3bf0161\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Base\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d5307bf1733e5a94bf7376099644a821d470b1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Android_projects\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ed54824c855d4d491c0cf15ec826bd50d947bb51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\3bb4b14a2a3b5f61cc6ad2eff58a2769ef29d5ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d44bf1e9cbc89fc60f529a8f3708c1dbbe6feb79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\44987728f4b3354d0a50946274db20fc9dbdf138\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dff03cebe7fbd2189a9fb22642d3f10b6b720a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\e0d99bf8420c063501f0c7b0e0da9aace601e150\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9513031267397462890853c369821d2f0b02f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\7cce27099549d67e255de56789cc3e15343b73f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b2c467ef47fe6850d212ce27400d999263d531a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\2a9b3f405c907bcb5a453dd3ad1db252ca472184\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edd5e64afac7f2a7baa67c04e554316263b4edf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Android_projects\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7214e66dd9acc5b814a53580c80982a7b8f67749">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_901be55f6da94d398c8ebe3234a12c315366038c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\aa8d48900159eeb2ad6eab85677936472fc7db3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8febdfe5c6e39e2676f0b337bee0aac4590d30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\50c91fd0de78b011e77ab88fd3f06c3d1c31c8d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_440d40ee8d50cee0dacb02085765fd5ef08bc245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh Mathur\.android\build-cache\cd1426982243be778e2c19efcbb79e0b16aabdc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="Z:\Android_projects\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14cf58043cbb12b2fe7d5b68df10b6674962cd39\classes.dex" />
+    </item>
+
+</items>
