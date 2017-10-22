@@ -1,7 +1,7 @@
-#Wed Oct 11 12:27:37 IST 2017
-base.0=Z\:\\Android_projects\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_901be55f6da94d398c8ebe3234a12c315366038c
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=Z\:\\Android_projects\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ed54824c855d4d491c0cf15ec826bd50d947bb51\\classes.dex
-base.1=Z\:\\Android_projects\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ed54824c855d4d491c0cf15ec826bd50d947bb51
-file.0=Z\:\\Android_projects\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_901be55f6da94d398c8ebe3234a12c315366038c\\classes.dex
+#Sun Oct 22 15:12:49 IST 2017
+base.0=Z\:\\Android_projects\\VISION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3b35ebb6fe218225b5c42bc83ee1e6143c5b5e6c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=Z\:\\Android_projects\\VISION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_715d4bac368b9f51f35b243e96b1522e3f61b2f6\\classes.dex
+base.1=Z\:\\Android_projects\\VISION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_715d4bac368b9f51f35b243e96b1522e3f61b2f6
+file.0=Z\:\\Android_projects\\VISION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3b35ebb6fe218225b5c42bc83ee1e6143c5b5e6c\\classes.dex

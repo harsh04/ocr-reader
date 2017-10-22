@@ -651,7 +651,7 @@
     <string name="read_text">Detect Text</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="title_activity_main">Vision_OCR</string>
+    <string name="title_activity_main">Vision</string>
     <string name="use_flash">Use Flash</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

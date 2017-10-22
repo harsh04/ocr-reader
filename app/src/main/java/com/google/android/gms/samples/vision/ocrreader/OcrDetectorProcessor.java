@@ -52,17 +52,18 @@ public class OcrDetectorProcessor implements Detector.Processor<TextBlock> {
         sharedpreferences = context.getSharedPreferences("loggedRecords",
                 Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedpreferences.edit();
-        editor.remove("textDetected");
+        editor.clear();
         editor.apply();
         mGraphicOverlay.clear();
         SparseArray<TextBlock> items = detections.getDetectedItems();
         for (int i = 0; i < items.size(); ++i) {
             TextBlock item = items.valueAt(i);
             detectedText.append(item.getValue());
-            detectedText.append("++");
+            detectedText.append(" ");
             OcrGraphic graphic = new OcrGraphic(mGraphicOverlay, item);
             mGraphicOverlay.add(graphic);
         }
+        editor.putString("laguage", items.valueAt(0).getLanguage());
         editor.putString("textDetected", String.valueOf(detectedText));
         editor.apply();
         editor.commit();

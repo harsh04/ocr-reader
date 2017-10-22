@@ -1,6 +1,18 @@
 [
     {
-        "merged": "Z:\\Android_projects\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
-        "source": "Z:\\Android_projects\\ocr-reader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "Z:\\Android_projects\\VISION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\selected.png",
+        "source": "Z:\\Android_projects\\VISION\\app\\src\\main\\res\\drawable-hdpi\\selected.png"
+    },
+    {
+        "merged": "Z:\\Android_projects\\VISION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unselected.png",
+        "source": "Z:\\Android_projects\\VISION\\app\\src\\main\\res\\drawable-hdpi\\unselected.png"
+    },
+    {
+        "merged": "Z:\\Android_projects\\VISION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\speak.png",
+        "source": "Z:\\Android_projects\\VISION\\app\\src\\main\\res\\drawable-hdpi\\speak.png"
+    },
+    {
+        "merged": "Z:\\Android_projects\\VISION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "Z:\\Android_projects\\VISION\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     }
 ]

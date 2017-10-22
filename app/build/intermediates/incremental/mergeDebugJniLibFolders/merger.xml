@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="Z:\Android_projects\ocr-reader\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="Z:\Android_projects\ocr-reader\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="Z:\Android_projects\VISION\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="Z:\Android_projects\VISION\app\src\debug\jniLibs"/></dataSet></merger>

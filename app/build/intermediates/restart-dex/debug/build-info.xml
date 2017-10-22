@@ -6,80 +6,92 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1507708726137"
-    token="8637013852568433497"
+    timestamp="1508665357693"
+    token="8129390299801143000"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="559" />
+        duration="1848" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="89" />
+        duration="144" />
     <task
         name="verifier"
-        duration="9" />
+        duration="215" />
 
     <artifact
-        location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="Z:\Android_projects\ocr-reader\app\build\outputs\apk\app-debug.apk"
+        location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="Z:\Android_projects\VISION\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1507708328544"
+        timestamp="1508664059870"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\outputs\apk\app-debug.apk"
+            location="Z:\Android_projects\VISION\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1507708726137"
+        timestamp="1508665357693"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="Z:\Android_projects\ocr-reader\app\build\outputs\apk\app-debug.apk"
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="Z:\Android_projects\VISION\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="Z:\Android_projects\VISION\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
